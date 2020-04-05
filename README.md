@@ -4,7 +4,7 @@ Docker integration with Jenkins Pipeline to automate your application security p
 
 # Use case
 
-Run identified set of SAST & DAST tools from Jenkins and get tools findings into DefectDojo. This will help the security team to control which tools to run to secure a software product under development and track findings to closure (either fixed or archived). If cloud configuration audit tools along with run time scanning tools, then it would give a holistic view of dev & ops security posture
+Run identified set of SAST & DAST tools from Jenkins and get tools findings into DefectDojo. This will help the security team to control which tools to run to secure a software product under development and track findings to closure (either fixed or archived). If cloud configuration audit tools along with runtime scanning tools, then it would give a holistic view of dev & ops security posture
 
 TODO:
 1. Extending similar integration with Spinnaker 
